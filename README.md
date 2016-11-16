@@ -17,5 +17,8 @@ Github 加载 .ipynb 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipyt
 - [模型的加载](http://nbviewer.jupyter.org/github/xingkongliang/Keras-Tutorials/blob/master/3.load_model.ipynb)
 - [绘制精度和损失曲线](http://nbviewer.jupyter.org/github/xingkongliang/Keras-Tutorials/blob/master/4.plot_acc_loss.ipynb)
 - [卷积神经网络实现](http://nbviewer.jupyter.org/github/xingkongliang/Keras-Tutorials/blob/master/5.mnist_cnn.ipynb)
+- [CIFAR10_cnn](http://nbviewer.jupyter.org/github/xingkongliang/Keras-Tutorials/blob/master/6.cifar10_cnn.ipynb)
+- [mnist_lstm](http://nbviewer.jupyter.org/github/xingkongliang/Keras-Tutorials/blob/master/7.mnist_lstm.ipynb)
+
 
 
