@@ -4,4 +4,5 @@
 *.pyc
 *.h5
 *.png
-
+*.jpg
+/data/*
