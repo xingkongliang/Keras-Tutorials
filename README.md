@@ -24,6 +24,10 @@ Github 加载 .ipynb 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipyt
 - [10.variational_autoencoder](http://nbviewer.jupyter.org/github/xingkongliang/Keras-Tutorials/blob/master/10.variational_autoencoder.ipynb)
 - [11.锁定层fine-tuning网络](http://nbviewer.jupyter.org/github/xingkongliang/Keras-Tutorials/blob/master/11.mnist_transfer_cnn.ipynb)
 - [12.使用sklearn wrapper进行的参数搜索](http://nbviewer.jupyter.org/github/xingkongliang/Keras-Tutorials/blob/master/12.mnist_sklearn_wrapper.ipynb)
+- [13.Keras和Tensorflow联合使用](13.Keras_with_tensorflow.ipynb)
+- [14.Finetune InceptionV3样例](14.finetune_InceptionV3.ipynb)
+- [15.自编码器](15.autoencoder.ipynb)
+- [16.卷积自编码器](16.Convolutional_autoencoder.ipynb)
 
 
 
